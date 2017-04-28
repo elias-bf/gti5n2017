@@ -2,3 +2,19 @@ Clone o projeto do github
 	git clone  uriDoRepositorio
 
 Entre na pasta clonada e utilize os comandos a seguir
+
+
+Listar os arquivos monitorados pelo git
+	git ls-files
+
+Listar a situações dos arquivos no diretorio de trabalho e na área de stagging
+	git status
+
+Adicionar um arquivo/alteração para monitoramento do git
+	git add
+
+Gerando uma versão de um ou vários arquivos
+	git commit -m "Comentário sobre a mudança"
+
+
+
