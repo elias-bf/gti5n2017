@@ -1,0 +1,4 @@
+Clone o projeto do github
+	git clone  uriDoRepositorio
+
+Entre na pasta clonada e utilize os comandos a seguir
