@@ -1,4 +1,9 @@
 Elias Batista Ferreira
+Pontalina-GO
+Brazil
+Vascão
+Só isso
+
 
 Clone o projeto do github
 	git clone  uriDoRepositorio
