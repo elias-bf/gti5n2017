@@ -16,6 +16,9 @@ Adicionar um arquivo/alteração para monitoramento do git
 Gerando uma versão de um ou vários arquivos
 	git commit -m "Comentário sobre a mudança"
 
+Comando para vericar o historico de mudanças
+	git log [nome do arquivo]
+
 
 
 
