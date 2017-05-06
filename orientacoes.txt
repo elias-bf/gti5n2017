@@ -58,3 +58,6 @@ Passo-a-passo para uso do git / github
 	Obs 2: o passo 6 pode apresentar conflito. O conflito exige sua intervenção para corrigi-lo.
 
 
+Zaira
+
+
