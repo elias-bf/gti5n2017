@@ -1,11 +1,3 @@
-Elias Batista Ferreira
-Pontalina-GO
-Brazil
-Vascão
-Só isso
-
-Zaira Cruz
-
 Clone o projeto do github
 	git clone  uriDoRepositorio
 
@@ -65,8 +57,5 @@ Passo-a-passo para uso do git / github
 
 Aluno: Edson Castro
 
-
-
-Zaira
 
 
