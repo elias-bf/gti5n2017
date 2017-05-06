@@ -1,3 +1,11 @@
+Elias Batista Ferreira
+Pontalina-GO
+Brazil
+Vascão
+Só isso
+
+Zaira Cruz
+
 Clone o projeto do github
 	git clone  uriDoRepositorio
 
@@ -54,5 +62,11 @@ Passo-a-passo para uso do git / github
 
 	Obs 1: os passos de 3 a 7 devem ser repetidos para toda alteração que for realizada por você.
 	Obs 2: o passo 6 pode apresentar conflito. O conflito exige sua intervenção para corrigi-lo.
+
+Aluno: Edson Castro
+
+
+
+Zaira
 
 
