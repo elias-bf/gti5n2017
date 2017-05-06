@@ -4,6 +4,7 @@ Brazil
 Vascão
 Só isso
 
+Zaira Cruz
 
 Clone o projeto do github
 	git clone  uriDoRepositorio
