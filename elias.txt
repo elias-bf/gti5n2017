@@ -5,3 +5,8 @@ Brazil
 
 "Computadores não resolvem problemas; Eles executam soluções."
 Laurent Gasser
+
+
+Voltar o repositório à um ponto específico
+
+
