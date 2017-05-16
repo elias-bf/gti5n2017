@@ -8,5 +8,7 @@ Laurent Gasser
 
 
 Voltar o repositório à um ponto específico
-
+	git reset
+	git rever
+	git checkout
 
